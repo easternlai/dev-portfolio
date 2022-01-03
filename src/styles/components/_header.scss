@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    margin-bottom: 30px;
+    &__left{
+        &--image{
+            height: 150px;
+            width: 150px;
+            border-radius: 100px;
+            object-fit:cover;
+        }
+    }
+    &__right{
+        display:flex;
+        flex-direction: column;
+        margin-left: 50px;
+        &__title{
+            height: 75px;
+            &--name{
+                border-bottom: 8px solid $color-1;
+                padding-bottom: 10px;
+                text-decoration: none;
+                color: inherit;
+                
+            }
+        }
+
+        &__nav{
+
+            align-items: flex-end;
+            height: 75px;
+            display:flex;
+
+            &--item{
+                margin-right: 50px;
+                text-decoration: none;
+                color: inherit;
+                border-bottom: none;
+            }
+
+        }
+    }
+}

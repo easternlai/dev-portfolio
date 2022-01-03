@@ -1,0 +1,100 @@
+body {
+    font-family: 'Karla', sans-serif;
+    font-weight: 300;
+    line-height: 1.7;
+    font-size: 2.2rem;
+    
+  }
+
+.heading-0 {
+  font-size: 4rem;
+  font-family: 'Rubik', sans-serif;
+}
+
+.heading-1 {
+    font-size: 3.5rem;
+    color: $color-black;
+    font-family: 'Rubik', sans-serif;
+  }
+
+  .heading-1__bold {
+    font-size: 3.5rem;
+    color: $color-black;
+    font-weight: 600;
+    font-family: 'Rubik', sans-serif;
+  }
+  
+  .heading-2 {
+    font-size: 2.8rem;
+    color: $color-black;
+    font-family: 'Rubik', sans-serif;
+    letter-spacing: 1.5px;
+    font-weight: normal;
+  }
+
+  .heading-2__bold {
+    font-size: 2.8rem;
+    color: $color-black;
+    font-weight: 700;
+    font-family: 'Rubik', sans-serif;
+    letter-spacing: 1.5px;
+  }
+  
+  .heading-3 {
+    font-size: 2.3rem;
+    color: $color-black;
+    font-family: 'Rubik', sans-serif;
+  }
+  
+  .heading-3__bold {
+    font-size: 2.5rem;
+    color: $color-black;
+    font-weight: 500;
+    font-family: 'Rubik', sans-serif;
+  }
+
+  .heading-4 {
+    font-size: 1.4rem;
+    color: $color-black;
+    font-family: 'Rubik', sans-serif;
+  }
+  .heading-4__bold {
+    font-size: 1.4rem;
+    color: $color-black;
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+  }
+  
+  
+  .heading-5 {
+    font-size: 1.2rem;
+    color: $color-black;
+    font-family: 'Rubik', sans-serif; 
+  }
+
+  .heading-5__bold{
+    font-size: 1.2rem;
+    color: $color-black;
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+  }
+
+  .text-jumbo {
+      font-size: 5rem;
+      font-weight: 500;
+      letter-spacing:-1px;
+  }
+
+  .text-large {
+    font-size: 3.5rem;
+    font-weight: 500;
+    letter-spacing:-1px;
+}
+
+  .bold{
+    font-weight: bold;
+  }
+  
+  .italic{
+      font-style: italic;
+  }

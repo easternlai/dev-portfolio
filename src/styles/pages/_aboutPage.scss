@@ -1,0 +1,18 @@
+.about {
+
+    &__photos {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 40px;
+        margin-bottom: 60px;
+        
+        &--photo{
+            width: 400px;
+            height: 450px;
+            object-fit:cover;
+            margin-right: 30px;
+    
+            margin-bottom: 30px;
+        }
+    }
+}

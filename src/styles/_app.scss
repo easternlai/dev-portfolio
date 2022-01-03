@@ -1,0 +1,32 @@
+*,
+*::after,
+*::before{
+    margin:0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;  //1rem = 10px;
+    color:#0F1419;
+}
+
+.App {
+    max-width: 1028px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 60px 20px 40px;
+}
+
+body {
+    background-color: rgba(212,221,224, .2);
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.mb-10 {
+    margin-bottom: 15px;
+}
