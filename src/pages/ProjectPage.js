@@ -9,9 +9,9 @@ const ProjectPage = () => {
       <div className="projects-page__wrapper">
         <div className="ml-15">
           <div>
-            Cultree is a multi-tenant, mern application to helps companies
-            improve their employee engagement with event signups, swag store,
-            and company photo galleries with many more features to come!
+            Cultree is a multi-tenant, mern application that helps companies
+            improve their employee engagement with event signups, a swag store,
+            photo galleries and many more features to come!
           </div>
           <div className="mt-20">
             <a

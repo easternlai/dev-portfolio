@@ -8,7 +8,7 @@ const CareerPage = () => {
       position: "Sr. System Administrator",
       company:
         "A digital healthcare company redefining the way cardiac arrhythmias are clinically diagnosed by combining biosensing technology with cloud-based data analytics.",
-      job: "The chief responsibility for this role was the design, development, implementation, integration, automation and improvement of web applications and access management solutions including, but not limited to, Single Sign On & Federation, Directory Services, Multifactor Authentication, and Web Access Management.  The position also required working in the infrastructure engineering group to expand and maintain the IT systems environment.",
+      job: "The chief responsibility for this role was the design, development, implementation, integration, automation and improvement of web applications and access management solutions including Single Sign On & Federation, Directory Services, Multifactor Authentication, and Web Access Management.  The position also required working in the infrastructure engineering group to expand and maintain the IT systems environment.",
     },
     {
       name: "endpoint Clinical",
@@ -16,7 +16,7 @@ const CareerPage = () => {
       position: "Network Administrator",
       company:
         "An interactive response technology IRT systems and solutions provider that supports the life sciences industry.",
-      job: "The central duty of this position was to architect and stabilize the network infrastructure for production and AWS environments.  Additional responsbilities include working in the system engineering team responsible for the expansion, maintenance, and support of production systems environment.",
+      job: "The central duty of this position was to architect and stabilize the network infrastructure for production and AWS environments.  Additional responsbilities include working in the systems engineering group tasked with the expansion, maintenance, and support of production systems environment.",
     },
     {
       name: "Bently Enterprises",
@@ -24,7 +24,7 @@ const CareerPage = () => {
       position: "System Administrator",
       company:
         "A multi-enterprise corporation with operations spanning various industries ranging from commercial real estate to whiskey distilleration.",
-      job: "The position involved working in system administration team responsible for all the companies technologies including maintaining LAMP stack environment and support of internal web services.  Other duties included serving as lead technical resource for network operations, security systems, VoiP services, and conference room technologies.",
+      job: "The position involved working in systems administration team responsible for all the companies technologies including maintaining LAMP stack environment and support of internal web services.  Other duties included serving as lead technical resource for network operations, security systems, VoiP services, and conference room technologies.",
     },
   ];
 
