@@ -1,0 +1,10 @@
+.projects-page {
+    &__wrapper{
+        display: flex;
+
+        &--image {
+            margin-left: 50px;
+            width: 400px;
+        }
+    }   
+}
