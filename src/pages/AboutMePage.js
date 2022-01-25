@@ -28,8 +28,7 @@ const AboutMePage = () => {
       </div>
       <div className="text-large">me</div>
       <div className="mt-20">
-        I try to spend my free time on weekends staying connected with family and
-        maintaining friendships that have lasted decades. I also like to explore new walks in different
+        I try to spend my free time on weekends staying connected with family. I also like to explore new walks in different
         neighborhoods with my little friends and do my best to make sure they are living
         their best lives.
       </div>

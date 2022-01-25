@@ -23,8 +23,8 @@ const CareerPage = () => {
       years: "Apr 2013 to Jul 2016",
       position: "System Administrator",
       company:
-        "A multi-enterprise corporation with operations spanning various industries ranging from commercial real estate to whiskey distilleration.",
-      job: "The position involved working in systems administration team responsible for all the companies technologies including maintaining LAMP stack environment and support of internal web services.  Other duties included serving as lead technical resource for network operations, security systems, VoiP services, and conference room technologies.",
+        "A multi-enterprise corporation with operations spanning various industries ranging from commercial real-estate to whiskey distilleration.",
+      job: "The position involved working in the systems administration team responsible for all technologies including maintaining the LAMP stack environment and support of internal web services.  Other duties included serving as the lead technical resource for network operations, security systems, VoiP services, and conference room technologies.",
     },
   ];
 
@@ -45,7 +45,7 @@ const CareerPage = () => {
           </div>
           <div>
             <span className="bold">About {company.name.split(" ")[0]}: </span>
-            {company.company}
+            <span className="italic">{company.company}</span>
           </div>
         </div>
       ))}

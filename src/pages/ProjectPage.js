@@ -9,16 +9,16 @@ const ProjectPage = () => {
       <div className="projects-page__wrapper">
         <div className="ml-15">
           <div>
-            Cultree is a multi-tenant, mern application that helps companies
-            improve their employee engagement with event signups, a swag store,
-            photo galleries and many more features to come!
+            <p className="mb-5">Cultree is a full stack MERN application that I have been developing to gain experience working with larger codebases and familiarize myself with different cloud deployment implementations.</p>  
+            <p>This multi-tenant application includes a signup board, photo album, store, admin portal, and many more features to come.</p>    
+
           </div>
           <div className="mt-20">
             <a
               target="_blank"
-              href="http://ec2-34-221-182-244.us-west-2.compute.amazonaws.com/demologin/dscott@demo-co.com/Password123!"
+              href="http://ec2-34-212-89-241.us-west-2.compute.amazonaws.com/demologin/dscott@demo-co.com/Password123!"
             >
-              Demo Cultree as Admin
+              demo login
             </a>
           </div>
 
@@ -29,16 +29,14 @@ const ProjectPage = () => {
 
       <div className="text-med  mt-20">Technologies </div>
       <div className="ml-15 mb-10">
-        <span className="bold">frontend - </span>reactjs, scss, redux, socketio,
-        react hooks (useState, useReducer, useRef, useEffect).
+        <span className="bold">frontend - </span>Reactjs, SCSS, Redux, Socketio, Hooks
       </div>
       <div className="ml-15 mb-10">
-        <span className="bold">backend - </span>nodejs, mongodb, express,
-        socketio, aws s3
+        <span className="bold">backend - </span>Nodejs, MongoDB, Express, AWS S3
       </div>
       <div className="ml-15 mb-10">
-        <span className="bold">devops - </span> linux, aws (ec2, s3, vpc),
-        terraform, docker containerization, nginx
+        <span className="bold">devops - </span> Linux, Nginx, AWS, Terraform, Ansible, Docker, Kubernetes
+
       </div>
       <div className="ml-15 mb-10">
         <span className="bold">github - </span> <a href="https://github.com/easternlai/cultree" target="_blank">https://github.com/easternlai/cultree</a>
